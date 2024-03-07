@@ -1,0 +1,6 @@
+body {
+    background-color: rgb(43, 100, 175);
+  }
+  img {
+    filter: invert(100%);
+  }
