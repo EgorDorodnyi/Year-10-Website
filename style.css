@@ -36,3 +36,17 @@ h1{text-align: center;}
 width: 375px;
 color: #b91111;
 }
+
+.warning{
+  text-align: center;
+
+}
+
+.html{
+  cursor: pointer;
+
+}
+
+.html:hover{
+  color: green;
+}
