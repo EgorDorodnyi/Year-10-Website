@@ -55,3 +55,24 @@ color: #b91111;
   position: absolute;
   left: 300;
 }
+
+.flashing-Ligths:hover{
+  color: aqua;
+  size: 200px;
+}
+
+.flashing-Ligths{
+position: absolute;
+right: 600px;
+size: 40px;
+}
+
+.song{
+  float: right;
+}
+
+.Kanye{
+  height: 1750px;
+  width: 750px;
+  float: right;
+}
